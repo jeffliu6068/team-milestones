@@ -1,6 +1,10 @@
 {
   "milestones": [
-    { "id": "seed01", "name": "IND filing", "target": "2026-12-15" }
+    {
+      "id": "seed01",
+      "name": "IND filing",
+      "target": "2026-12-15"
+    }
   ],
-  "updated": "2026-07-02"
+  "updated": "2026-07-02T21:45:01.637Z"
 }

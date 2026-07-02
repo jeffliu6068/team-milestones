@@ -1,4 +1,10 @@
 {
-  "milestones": [],
-  "updated": "2026-07-02T21:50:29.789Z"
+  "milestones": [
+    {
+      "id": "mr41gtr3cri7",
+      "name": "Screen all 1500 gluc constructs",
+      "target": "2026-08-15"
+    }
+  ],
+  "updated": "2026-07-02T21:51:02.559Z"
 }
